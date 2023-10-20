@@ -3,7 +3,7 @@
 This repository contains information about the projects I maintain.
 
 - [Tulu-C-IDE](#tulu-c-ide)
-- [Xubuntu-minimum-shell-config](#xubuntu-minimum-shell-config)
+- [Debian-minimal](#debian-minimal)
 
 ---
 
@@ -48,27 +48,26 @@ Here are some of the benefits of using [Tulu-C-IDE](https://github.com/Pinaki82/
 
 ---
 
-## [Xubuntu-minimum-shell-config](https://github.com/Pinaki82/Xubuntu-minimum-shell-config.git)
+## [Debian-minimal](https://github.com/Pinaki82/Debian-minimal.git)
 
-[Xubuntu-minimum-shell-config](https://github.com/Pinaki82/Xubuntu-minimum-shell-config.git): A set of shell scripts to configure a freshly installed [Xubuntu](https://xubuntu.org/) Linux system and install minimum required programs to get a workable installation with essential packages for day-to-day use.
+[Debian-minimal](https://github.com/Pinaki82/Debian-minimal.git): A set of shell scripts to configure a freshly installed [Debian](https://www.debian.org/) Linux system and install minimum required programs to get a workable installation with essential packages for day-to-day use.
 
-The [Xubuntu-minimum-shell-config](https://github.com/Pinaki82/Xubuntu-minimum-shell-config.git) project is a great way to get a basic [Xubuntu](https://xubuntu.org/) system up and running quickly and easily. The scripts are easy to use and can be customised to meet the specific needs of the user.
+The [Debian-minimal](https://github.com/Pinaki82/Debian-minimal.git) project is a great way to get a basic [Debian](https://www.debian.org/) system up and running quickly and easily. The scripts are easy to use and can be customised to meet the specific needs of the user.
 
-* [Xubuntu-minimum-shell-config](https://github.com/Pinaki82/Xubuntu-minimum-shell-config.git) is a set of shell scripts that can be used to configure a freshly installed [Xubuntu](https://xubuntu.org/) Linux system.
+* [Debian-minimal](https://github.com/Pinaki82/Debian-minimal.git) is a set of shell scripts that can be used to configure a freshly installed [Debian](https://www.debian.org/) Linux system.
 * The scripts install a minimal set of programs that are required to get a workable installation with essential packages for day-to-day use.
 * The scripts are designed to be easy to use and can be customised to meet the specific needs of the user.
 * The scripts are free and open source and are available on GitHub.
 
-Here are some of the benefits of using the [Xubuntu-minimum-shell-config](https://github.com/Pinaki82/Xubuntu-minimum-shell-config.git) project:
+Here are some of the benefits of using the [Debian-minimal](https://github.com/Pinaki82/Debian-minimal.git) project:
 
 * It is easy to use.
 * It can be customised to meet the specific needs of the user.
 * It comes with some essential MS Windows configurations as a bonus.
 * It provides suggestions for alternative software in practical terms.
 * Most applications are curated to work on MS Windows for an uncompromising cross-platform experience.
-* It works on Ubuntu derivative systems with little to no modification of the scripts.
 * It is free and open source.
 
-If you are looking for a way to get a basic [Xubuntu]([https://xubuntu.org/](https://xubuntu.org/)) system up and running, I recommend checking out the [Xubuntu-minimum-shell-config](https://github.com/Pinaki82/Xubuntu-minimum-shell-config.git) project.
+If you are looking for a way to get a basic [Debian](https://www.debian.org/) system up and running, I recommend checking out the [Debian-minimal](https://github.com/Pinaki82/Debian-minimal.git) project.
 
 ---
